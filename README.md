@@ -189,5 +189,3 @@ python main.py
 - `datos/`: archivos persistentes.
 - `assets/`: logo e íconos del sistema.
 - `main.py`: arranque y navegación principal.
-
-No se implementaron funciones ajenas al alcance solicitado como recuperación de contraseña, bloqueo de cuentas, base de datos, Supabase o permisos avanzados.
