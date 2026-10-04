@@ -1,0 +1,37 @@
+[
+  {
+    "codigo": "P001",
+    "nombre": "Hamburguesa clásica",
+    "categoria": "Comida",
+    "precio": 4.5,
+    "cantidad": 15
+  },
+  {
+    "codigo": "P002",
+    "nombre": "Pizza personal",
+    "categoria": "Comida",
+    "precio": 5.0,
+    "cantidad": 10
+  },
+  {
+    "codigo": "P003",
+    "nombre": "Papas fritas",
+    "categoria": "Acompañamiento",
+    "precio": 2.0,
+    "cantidad": 20
+  },
+  {
+    "codigo": "P004",
+    "nombre": "Gaseosa",
+    "categoria": "Bebida",
+    "precio": 1.5,
+    "cantidad": 25
+  },
+  {
+    "codigo": "P005",
+    "nombre": "Jugo natural",
+    "categoria": "Bebida",
+    "precio": 2.25,
+    "cantidad": 12
+  }
+]
